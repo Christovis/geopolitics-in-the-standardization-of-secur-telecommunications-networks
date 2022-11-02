@@ -1,8 +1,8 @@
 1993 First commercial IMSI catchers available (https://www.academia.edu/29059675/Rise_of_the_IMSI_Catcher)
-2001 Registering of Stingray Trademark
+2001 Registering of Stingray Trademark (most popular IMSI catcher used by US law enforcement and many others)
 2007 Stingray II was released
 2008 First SS7 vulnerabilities disclosed (at CCC https://www.youtube.com/watch?v=OEcW4HlrpYE)
-2010 First Gemalto hack by NSA
+2010 First Gemalto hack by NSA (leaking of SIM card credentials, Gemalto is a large SIM card provider)
 2011 Second Gemalto hack by NSA
 2014 More SS7 vulnerabilities disclosed (at CCC https://www.washingtonpost.com/news/the-switch/wp/2014/12/18/german-researchers-discover-a-flaw-that-could-let-anyone-listen-to-your-cell-calls-and-read-your-texts/)
 2015 Public announcement of Gemalto hack by NSA (https://www.wired.com/2015/02/gemalto-confirms-hacked-insists-nsa-didnt-get-crypto-keys/)
