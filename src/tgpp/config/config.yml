@@ -1,0 +1,36 @@
+# File and Folder structure:
+# The given paths are to be appended to the project folder path.
+folder_bin : "bin/"
+folder_data : "data/"
+folder_reference_set : "data/reference_set/"
+folder_search_set : "data/search_set/"
+folder_target_set : "data/target_set/"
+folder_keyterms : "keyterms/"
+folder_tests: "tests/data/"
+
+# Corpus linguistics settings
+## Stopwords: words to be removed
+file_stopwords : "keyterms/stopwords_extended.txt"
+## Query: words & n-grams to define target set
+file_queries:
+    - "keyterms/keyterms_241022CB.csv"
+
+# Corpus source settings
+## Choose between  Mailinglists:
+##    - 3GPP_TSG_SA_WG3
+##    - 3GPP_TSG_SA_WG3_LI
+search_set : "3GPP_TSG_SA_WG3_LI"
+#
+header_fields :
+    - 'subject'
+    - 'date'
+    - 'message-id'
+    - 'from'
+    - 'reply-to'
+    - 'in-reply-to'
+    - 'sender'
+    - 'comments-to'
+    - 'archived-at'
+
+# Analysis settings
+ncpus : 1

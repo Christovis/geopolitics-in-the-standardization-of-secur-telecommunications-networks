@@ -1,0 +1,66 @@
+keyterm:  diffie-hellman 
+TSGS3_40_Slovenia_Report_Draft_Rep_v003_SA3_40_Draft_Rep_v003_SA3_40.doc
+TSGS3_40_Slovenia_Report_Draft_Rep_v002_SA3_40_Draft_Rep_v002_SA3_40.doc
+TSGS3_40_Slovenia_Report_S3-050806_S3-050806.doc
+2005_06_Tbilisi_Docs_S3LI05_110 SA3#40 Draft Report_Draft_Rep_v004_SA3_40.doc
+TSGS3_40_Slovenia_Report_Draft_Rep_v004_SA3_40_Draft_Rep_v004_SA3_40.doc
+
+keyterm:  forward secreci 
+TSGS3_90_Gothenburg_Report_MeetingReport_SA3_90.doc
+
+keyterm:  imsi 
+TSGS3_87_Ljubljana_Report_MeetingReport__SA3_87.doc
+
+keyterm:  imsi catcher 
+TSGS3_90Bis_SanDiego_Report_MeetingReport__SA3_90_Bis.doc
+TSGS3_87_Ljubljana_Report_MeetingReport__SA3_87.doc
+
+keyterm:  interconnect secur 
+TSGS3_89_Reno_Report_MeetingReport__SA3_89.doc
+
+keyterm:  locat track 
+TSGS3_76_Sophia_Report_MeetingReport__SA3#76.doc
+
+keyterm:  n32 
+TSGS3_92Bis_Harbin_Report_MeetingReport_SA3_92AH.docx
+
+keyterm:  perfect forward secreci 
+TSGS3_65_San_Diego_Report_FinalMeetingReport_SA3_65.doc
+TSGS3_40_Slovenia_Report_Draft_Rep_v003_SA3_40_Draft_Rep_v003_SA3_40.doc
+TSGS3_92_Dalian_Report_MeetingReport_SA3_92.docx
+TSGS3_93_Spokane_Report_MeetingReport__SA3_93.docx
+TSGS3_40_Slovenia_Report_Draft_Rep_v002_SA3_40_Draft_Rep_v002_SA3_40.doc
+TSGS3_40_Slovenia_Report_S3-050806_S3-050806.doc
+TSGS3_92Bis_Harbin_Report_MeetingReport_SA3_92AH.docx
+2005_06_Tbilisi_Docs_S3LI05_110 SA3#40 Draft Report_Draft_Rep_v004_SA3_40.doc
+TSGS3_40_Slovenia_Report_Draft_Rep_v001_SA3_40_Draft_Rep_v001_SA3_40.doc
+TSGS3_40_Slovenia_Report_Draft_Rep_v004_SA3_40_Draft_Rep_v004_SA3_40.doc
+
+keyterm:  perman identifi 
+TSGS3_87_Ljubljana_Report_MeetingReport__SA3_87.doc
+
+keyterm:  pfs 
+TSGS3_94AH_Kista_Report_MeetingReport__SA3_94AH.docx
+
+keyterm:  rogu base station 
+TSGS3_91_Belgrade_Report_MeetingReport__SA3_91.doc
+
+keyterm:  sba 
+TSGS3_105e_Report_MeetingReport__SA3_105e.docx
+
+keyterm:  secur edg protect proxi 
+TSGS3_93_Spokane_Report_MeetingReport__SA3_93.docx
+
+keyterm:  sepp 
+TSGS3_93_Spokane_Report_MeetingReport__SA3_93.docx
+
+keyterm:  servic base architectur 
+TSGS3_91Bis_LaJolla_Report_MeetingReport__SA3_91Bis.doc
+
+keyterm:  sms intercept 
+2005_01_Barcelona_Docs_S3LI05_002 San Antonio draft report_S3LI05_002 San Antonio draft report.doc
+2005_01_Barcelona_Docs_S3LI05_002r1 San Antonio Meeting Report_S3LI05_002r1 San Antonio draft report.doc
+2004_10_San_Antonio_Docs_S3LI04_183 San Antonio draft report_S3LI04_183 San Antonio draft report.doc
+
+keyterm:  ss7 
+TSGS3_05_9908_docs_AP99d064_draft_rep_SMG10_1_99_AP99d064_SMG10RepV002.doc
